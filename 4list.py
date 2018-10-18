@@ -63,4 +63,7 @@ friend_pizza.append('pineapple')
 print(friend_pizza)
 
 #4-12
-
+bufft = ('apple', 'salmon', 'roast duck', 'pork')
+print(bufft)
+for n in bufft:
+	print(n)
