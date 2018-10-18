@@ -13,9 +13,3 @@ full_name = frist_name + ' ' + last_name
 
 print(full_name)
 
-message = 'Hello, ' + full_name.title() + '!'
-print(message)
-
-print('\tpython')
-
-print('language:\n\tpython\n\tC\n\tJavascript')
