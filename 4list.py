@@ -67,3 +67,8 @@ bufft = ('apple', 'salmon', 'roast duck', 'pork')
 print(bufft)
 for n in bufft:
 	print(n)
+#bufft[0] = 'salmon1'
+bufft = ('apple', 'saimon', 'roast duck', 'pork1')
+print(bufft)
+for n in bufft:
+	print(n)
